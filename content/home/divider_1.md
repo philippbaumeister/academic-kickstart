@@ -6,9 +6,9 @@
 widget = "blank"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = false  # Activate this widget? true/false
-weight = 15  # Order that this section will appear.
+weight = 40  # Order that this section will appear.
 
-title = "Philipp Baumeister"
+title = ""
 subtitle = ""
 
 [design]
@@ -25,12 +25,12 @@ subtitle = ""
   # color = "navy"
   
   # Background gradient.
-  gradient_start = "DarkGreen"
-  gradient_end = "ForestGreen"
+  # gradient_start = "DarkGreen"
+  # gradient_end = "ForestGreen"
   
   # Background image.
-  image = "solar_system.png"  # Name of image in `static/img/`.
-  image_darken = 0.5  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
+  image = "mars_surface.png"  # Name of image in `static/img/`.
+  image_darken = 0  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
 
   # Text color (true=light or false=dark).
   text_color_light = true
@@ -41,6 +41,4 @@ subtitle = ""
  
  # CSS class.
  css_class = ""
-
 +++
-<span style="color:white"> Test </span>
