@@ -1,6 +1,9 @@
 /*************************************************
  *  Dark themed components
  **************************************************/
+ 
+$sta-primary-lighter: lighten($sta-primary, 30%);
+ 
 body.dark,
 .dark .docs-toc-link,
 .dark .docs-sidebar .nav > li:not(.active) > a,
@@ -120,4 +123,9 @@ site-footer, footer a.back-to-top i {
 .dark code {
     background-color: rgb(16, 17, 45);
     border-color: rgb(16, 17, 45);
+}
+
+.dark a:hover {
+    color: $sta-primary-lighter;
+    transition: color 0.3s ease;
 }

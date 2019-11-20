@@ -9086,3 +9086,7 @@ footer a.back-to-top i {
 .dark code {
   background-color: #10112d;
   border-color: #10112d; }
+
+.dark a:hover {
+  color: #47fefe;
+  transition: color 0.3s ease; }
