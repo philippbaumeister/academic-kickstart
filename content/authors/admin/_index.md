@@ -16,7 +16,7 @@ role = "Graduate student"
 organizations = [ { name = "Technische Universität Berlin", url = "https://www-astro.physik.tu-berlin.de/" }]
 
 # Short bio (displayed in user profile at end of posts)
-bio = "My research interests include distributed robotics, mobile computing and programmable matter."
+bio = "My research interests include exoplanets, planetary interiors, and machine learning"
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email = ""
@@ -60,7 +60,7 @@ user_groups = ["Researchers", "Visitors"]
 [[social]]
   icon = "google-scholar"
   icon_pack = "ai"
-  link = "https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ"
+  link = "https://scholar.google.com/citations?user=JYwAgUIAAAAJ"
 
 [[social]]
   icon = "github"
