@@ -3,6 +3,7 @@
  **************************************************/
  
 $sta-primary-lighter: lighten($sta-primary, 30%);
+$sta-bkg-lighter: lighten(rgb(16, 17, 45), 5%);
  
 body.dark,
 .dark .docs-toc-link,
@@ -23,6 +24,13 @@ body.dark,
 .dark h5,
 .dark h6 {
   color: rgb(168, 163, 148);
+}
+.dark .experience .text-muted {
+    color: rgba(241, 233, 212, 0.8) !important;
+}
+
+.dark .article-metadata {
+    color: rgba(241, 233, 212, 0.54);
 }
 
 .dark .article-title a {
@@ -55,7 +63,7 @@ body.dark,
 }
 
 .dark .card {
-  background: #343a40;
+  background: $sta-bkg-lighter;
 }
 
 .dark .card h4 a {
@@ -64,7 +72,7 @@ body.dark,
 }
 
 .dark .card .card-image.hover-overlay::before {
-  background: #666;
+  background: $sta-primary-lighter;
 }
 
 .dark .card .card-image.hover-overlay::after {

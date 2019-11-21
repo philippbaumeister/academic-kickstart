@@ -9,7 +9,7 @@ authors = ["admin"]
 superuser = true
 
 # Role/position
-role = "Graduate student"
+role = "PhD student"
 
 # Organizations/Affiliations
 #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
@@ -81,4 +81,4 @@ user_groups = ["Researchers", "Visitors"]
 
 +++
 
-Philipp Baumeister is a graduate researcher at the Technische Universität Berlin.
+Philipp Baumeister is a PhD student at the Technische Universität Berlin.

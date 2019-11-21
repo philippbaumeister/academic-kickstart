@@ -9006,6 +9006,12 @@ body.dark,
 .dark h6 {
   color: #a8a394; }
 
+.dark .experience .text-muted {
+  color: rgba(241, 233, 212, 0.8) !important; }
+
+.dark .article-metadata {
+  color: rgba(241, 233, 212, 0.54); }
+
 .dark .article-title a {
   color: #f1e9d4; }
 
@@ -9029,14 +9035,14 @@ body.dark,
   border: 1px solid #ddd; }
 
 .dark .card {
-  background: #343a40; }
+  background: #171840; }
 
 .dark .card h4 a {
   color: #01ABAB;
   border-bottom: solid 1px transparent; }
 
 .dark .card .card-image.hover-overlay::before {
-  background: #666; }
+  background: #47fefe; }
 
 .dark .card .card-image.hover-overlay::after {
   color: #fff; }
