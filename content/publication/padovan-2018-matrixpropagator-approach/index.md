@@ -9,5 +9,6 @@ featured: false
 publication: ""
 url_pdf: "https://www.aanda.org/10.1051/0004-6361/201834181"
 doi: "10.1051/0004-6361/201834181"
+tags: ["love number", "exoplanets", "interior structure"]
 ---
 
