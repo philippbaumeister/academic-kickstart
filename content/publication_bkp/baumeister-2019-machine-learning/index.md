@@ -1,5 +1,5 @@
 ---
-title: "Preprint: Machine Learning Inference of the Interior Structure of Low-Mass Exoplanets"
+title: "Machine Learning Inference of the Interior Structure of Low-Mass Exoplanets"
 date: 2019-11-28
 publishDate: 2019-12-02T10:18:20.046385Z
 authors: ["Philipp Baumeister", "Sebastiano Padovan", "Nicola Tosi", "Grégoire Montavon", "Nadine Nettelmann", "Jasmine MacKenzie", "Mareike Godolt"]
@@ -8,7 +8,7 @@ abstract: "We explore the application of machine learning based on mixture densi
 
 summary: "We explore the application of machine learning based on mixture density neural networks (MDNs) to the interior characterization of low-mass exoplanets up to 25 Earth masses constrained by mass, radius, and fluid Love number $k_2$. We show that the MDN is able to infer the distribution of possible thicknesses of each planetary layer from mass and radius of the planet."
 
-featured: False
+featured: True
 publication: ""
 tags: ["exoplanets", "interior structure", "machine learning", "neural networks", "mixture density networks", "love number", "interior modeling"]
 projects: ["spp1992"]
